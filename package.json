@@ -1,0 +1,12 @@
+{
+  "name": "skypiratevolley",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Airship cannon volleyball for four local players.",
+  "scripts": {
+    "start": "python3 server.py",
+    "test": "node --test tests/"
+  },
+  "license": "MIT"
+}
